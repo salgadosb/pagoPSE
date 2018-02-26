@@ -5,8 +5,7 @@ email: salgadosb1986@gmail.com
 
 ## Nota
 
-Este proyecto fue realizado en laravel 5.6 y php 7.2.2
-
+Este proyecto fue realizado en laravel 5.6, php 7.2.2, nusoap-php7 y guias github de la web.
 ## Utilización
 
 Una vez se descarga o clona el proyecto, en el mismo por medio de consola(cmd o simbolo del sistema windows), se activa el servidor por medio de: php artisan serve, se va directo al navegador web, en la direccion localhost:8000 se antepone Prueba(localhost:8000/Prueba) y se despliega la lista de entidades bancarias para la compra.
