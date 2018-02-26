@@ -1,0 +1,21 @@
+{
+    "name": "theluguiant/pse-composer",
+    "description": "PHP library service placetoplay.",
+    "keywords": ["placetopay","pse","pse services","service placetoplay"],
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Sebastian Salgado",
+            "email": "salgadosb1986@gmail.com"
+        }
+    ],
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php" : ">=7",
+        "codecasts/nusoap-php7": "^0.9.7"
+    },
+    "autoload": {
+        "psr-4": {"theluguiant\\PseComposer\\": "src/"}
+    }
+}
