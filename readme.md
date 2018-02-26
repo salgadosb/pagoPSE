@@ -7,7 +7,7 @@ email: salgadosb1986@gmail.com
 
 Este proyecto fue realizado en laravel 5.6 y php 7.2.2
 
-##Utilización
+## Utilización
 
 Una vez se descarga o clona el proyecto, en el mismo por medio de consola(cmd o simbolo del sitema windows), se activa el servidor por medio de: php artisna serve, se va directo al navegador web, en la direccion localhost:8000 se antepone Prueba(localhost:8000/Prueba) y se despliega la lista de entidades bancarias para la compra.
 
